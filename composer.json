@@ -1,0 +1,16 @@
+{
+    "name": "laraket/billboard",
+    "description": "A billboard package for laravel",
+    "require": {
+        "illuminate/redis":"5.8.*"
+    },
+    "require-dev": {
+        "mockery/mockery": "^1.0",
+        "orchestra/testbench": "^3.7",
+        "phpunit/phpunit": "^7.0"
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "prefer-stable": true
+}
